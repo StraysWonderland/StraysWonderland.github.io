@@ -1,10 +1,8 @@
-## Strays Wonderland
-
-### current projects
+## current projects
 - Avatar Creator Tool ( Android: Java & Kotlin)
 - ArUco Marker detection ( Android: Java )
 - Lazy Roundtrip Backend ( c# )
 - Lazy Roundtrip Frondend ( JS )
 
-### closed projects
+## closed projects
 - selfpresence ( CrossPlattform, VR , C#)
