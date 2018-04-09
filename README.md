@@ -1,8 +1,8 @@
 ## current projects
 - Avatar Creator Tool ( Android: Java & Kotlin)
 - ArUco Marker detection ( Android: Java )
-- Lazy Roundtrip Backend ( c# )
-- Lazy Roundtrip Frondend ( JS )
+- Travelling Mianthropist Problem ( Backend: Java + Springboot, Frontend: Javascript )
+- Neural Network for Emotion Recognition from Speech ( Python )
 
 ## closed projects
-- selfpresence ( CrossPlattform, VR , C#)
+- selfpresence ( CrossPlattform, VR , C#, Unity )
